@@ -312,7 +312,7 @@
   * [Custom Integrations](documentation/integrations/other/custom-integrations/README.md)
     * [Custom Integrations (v2)](documentation/integrations/custom-integrations/custom-integrations-v2.md)
     * [Custom Integrations (v1)](documentation/integrations/other/custom-integrations/integration-setup.md)
-* [App Platform (Coming Soon!)](documentation/app-platform-coming-soon/README.md)
+* [App Builder](documentation/app-platform-coming-soon/README.md)
   * [General](documentation/app-platform-coming-soon/getting-started/README.md)
     * [Glossary](documentation/app-platform-coming-soon/getting-started/glossary.md)
     * [Manage your apps](documentation/app-platform-coming-soon/getting-started/manage-your-apps.md)
@@ -341,6 +341,11 @@
     * [Text](documentation/app-platform-coming-soon/components/text.md)
     * [Time Saved](documentation/app-platform-coming-soon/components/time-saved.md)
     * [Workflow Input](documentation/app-platform-coming-soon/components/workflow-input.md)
+  * [Getting Started](documentation/app-platform-coming-soon/getting-started-1/README.md)
+    * [Create your first App](documentation/app-platform-coming-soon/getting-started-1/create-your-first-app.md)
+    * [Add your first page](documentation/app-platform-coming-soon/getting-started-1/add-your-first-page.md)
+    * [Create a Workflow to utilise in your App](documentation/app-platform-coming-soon/getting-started-1/create-a-workflow-to-utilise-in-your-app.md)
+    * [Use in-built App components](documentation/app-platform-coming-soon/getting-started-1/use-in-built-app-components.md)
 
 ## 📦 Prebuilt Automations
 
@@ -575,6 +580,7 @@
   * [June 7th, 2024](updates/marketplace-updates/june-7th-2024.md)
   * [May 31st 2024](updates/marketplace-updates/may-31st-2024.md)
 * [ROC Open Mics](updates/roc-open-mics/README.md)
+  * [Oct 11, 2024: Unlock Hidden Azure AD Data with this GENIUS Workflow Trick](updates/roc-open-mics/oct-11-2024-unlock-hidden-azure-ad-data-with-this-genius-workflow-trick.md)
   * [Oct 4, 2024: When This Integration Tells Rewst To Do Things For It](updates/roc-open-mics/oct-4-2024-when-this-integration-tells-rewst-to-do-things-for-it.md)
   * [Sept 27, 2024: 3 Examples of Automations that Help with Ticket Management](updates/roc-open-mics/sept-27-2024-3-examples-of-automations-that-help-with-ticket-management.md)
   * [Sept 20, 2024: How to Help The ROC Help You](updates/roc-open-mics/sept-20-2024-how-to-help-the-roc-help-you.md)
